@@ -1,5 +1,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StormLight14&theme=dark)
-![Stormlight's GitHub stats](https://github-readme-stats.vercel.app/api?username=stormlight14&show_icons=true&theme=transparent&show_rank=false)
+![Stormlight's GitHub stats](https://github-readme-stats.vercel.app/api?username=stormlight14&show_icons=true&theme=transparent&hide_rank=true)
 
 ## About Me
 Interested in software development, game development, and Linux!
