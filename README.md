@@ -4,6 +4,6 @@
 Interested in software development, game development, and Linux!
 
 <code><img height="20" alt="rust" src="https://github.com/StormLight14/images/blob/main/rust-logo.png?raw=true"></code>
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/StormLight14/images/main/python-logo.png?token=GHSAT0AAAAAACFESAI2SQNYKVIQGNOW5S5WZGEDB5Q"></code>
-<code><img height="20" alt="godot" src="https://raw.githubusercontent.com/StormLight14/images/main/godot-logo.png?token=GHSAT0AAAAAACFESAI34WB6NSQOLZCDPYIMZGEDBMQ"></code>
+<code><img height="20" alt="python" src="https://github.com/StormLight14/images/blob/main/python-logo.png?raw=true"></code>
+<code><img height="20" alt="godot" src="https://github.com/StormLight14/images/blob/main/godot-logo.png?raw=true"></code>
  
