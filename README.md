@@ -3,7 +3,7 @@
 ![Stormlight's GitHub stats](https://github-readme-stats.vercel.app/api?username=stormlight14&show_icons=true&theme=dark&hide_rank=true&custom_title=Github+Stats)
 
 ## About Me
-Interested in software development, game development, and Linux!
+Interested in software development, game development, cybersecurity, and Linux!
 
 <code><img height="30" alt="rust" src="https://github.com/StormLight14/images/blob/main/rust-logo.png?raw=true"></code>
 <code><img height="30" alt="python" src="https://github.com/StormLight14/images/blob/main/python-logo.png?raw=true"></code>
