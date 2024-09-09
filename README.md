@@ -1,5 +1,6 @@
 ## About Me
 I write bad code.
+
 Migrating to [Codeberg](https://codeberg.org/stormyyy/).
 
 <code><img height="30" alt="rust :3" src="https://github.com/StormLight14/StormLight14/blob/main/img/rust-logo.png?raw=true"></code>
